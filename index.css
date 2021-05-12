@@ -1,0 +1,15 @@
+h5{
+    color:rgb(4, 126, 85);
+    font-size:20px;
+    margin-left:50vh;
+}
+h3{
+    color:rgb(7, 76, 165);
+}
+button{
+    padding:10px 30px;
+    color:rgb(5, 72, 117);
+    font-size: 18px;
+    border:1px solid gray;
+    border-radius:5px;
+}
